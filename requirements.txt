@@ -1,5 +1,4 @@
 asyncio
-re
 aiohttp
 bs4
 requests
